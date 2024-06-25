@@ -12,6 +12,8 @@ This is a basic registration webpage made with HTML, CSS, and JS. It opens to a 
 4. After that navigate to the specific path of your clone folder in command prompt and run the commmand `http-server` **note: may need to run as administrator**.
 5. Then go to your browser and type localhost:8080. The application should run.
 6. To terminate: hit ctrl + c in the terminal
+   
+*You may need to clear the cache in the browser before doing these steps
 
 ### Acknowledgements
 
